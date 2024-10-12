@@ -23,4 +23,4 @@
 
 ### Conecte-se comigo:
 - Email: [taisdoring06@gmail.com](mailto:taisdoring06@gmail.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seunome)
+- LinkedIn: [Taís Doring](https://www.linkedin.com/in/taís-doring)
