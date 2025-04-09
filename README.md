@@ -13,10 +13,6 @@
 - Desenvolvimento de Jogos
 - Inteligência artificial
 
-### Hobbies:
-- Ler HQs
-- Desenhar
-
 ### Habilidades:
 - Java
 - C
