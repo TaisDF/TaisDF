@@ -1,22 +1,33 @@
-# Olá, eu sou a Taís!
+# Hello World! I'm Taís a Computer Science student✨.
 
-    📍 Moradora de Brasília
-    📒 Estudante de "Ciência da Computação"
-    🌱 Atualmente estudando JAVA
+## 🇧🇷 Sobre Mim    
+🔭 Atualmente explorando diferentes áreas da computação por meio de projetos pequenos e experimentais.  
+🌱 Aprendendo: Java, Spring Boot, MySQL, lógica de programação, desenvolvimento de jogos (e um pouco de tudo 😄).  
+💬 Pergunte-me sobre: programação para iniciantes, matemática discreta, ideias criativas para jogos ou como é estudar computação com curiosidade infinita!
 
-<div>
-  <a href="https://github.com/geovanards">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaisDF&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-### Interesses em Tecnologia:
-- Desenvolvimento de Jogos
-- Inteligência artificial
+## 🇺🇸 About Me  
 
-### Habilidades:
-- Java
-- C
+🔭 Currently exploring different areas of computer science through small and experimental projects.  
+🌱 Learning: Java, Spring Boot, MySQL, programming logic, game development (and a bit of everything else 😄).  
+💬 Ask me about: beginner-friendly programming, discrete mathematics, creative game ideas, or what it’s like to study computer science with endless curiosity!
 
-### Conecte-se comigo:
-- Email: [taisdoring06@gmail.com](mailto:taisdoring06@gmail.com)
-- LinkedIn: [Taís Doring](https://www.linkedin.com/taís-doring)
+---
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TaisDF&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TaisDF&theme=ocean_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisDF&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TaisDF&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
