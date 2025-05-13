@@ -2,16 +2,16 @@
 
 ## 🇧🇷 Sobre Mim    
 🔭 Atualmente explorando diferentes áreas da computação por meio de projetos pequenos e experimentais.  
-🌱 Aprendendo: Java, Spring Boot, MySQL, lógica de programação, desenvolvimento de jogos (e um pouco de tudo 😄).  
-💬 Pergunte-me sobre: programação para iniciantes, matemática discreta, ideias criativas para jogos ou como é estudar computação com curiosidade infinita!
+🌱 Aprendendo: Java, MySQL, design (e um pouco de tudo 😄).  
+💬 Pergunte-me sobre: programação para iniciantes, matemática ou como é estudar computação com curiosidade infinita!
 
 ---
 
 ## 🇺🇸 About Me  
 
 🔭 Currently exploring different areas of computer science through small and experimental projects.  
-🌱 Learning: Java, Spring Boot, MySQL, programming logic, game development (and a bit of everything else 😄).  
-💬 Ask me about: beginner-friendly programming, discrete mathematics, creative game ideas, or what it’s like to study computer science with endless curiosity!
+🌱 Learning: Java, MySQL, design (and a bit of everything else 😄).  
+💬 Ask me about: beginner-friendly programming, mathematics or what it’s like to study computer science with endless curiosity!
 
 ---
 
